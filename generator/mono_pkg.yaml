@@ -1,0 +1,10 @@
+# See https://pub.dev/packages/mono_repo
+stages:
+- analyze_and_format:
+  - group:
+    - format
+    - analyze: --fatal-infos .
+    sdk: dev
+  - group:
+    - analyze
+    sdk: pubspec

@@ -1,0 +1,52 @@
+diff --git a/discovery/googleapis/chromemanagement__v1.json b/discovery/googleapis/chromemanagement__v1.json
+index 537f0163d..e33fcefab 100644
+--- a/discovery/googleapis/chromemanagement__v1.json
++++ b/discovery/googleapis/chromemanagement__v1.json
+@@ -17,7 +17,7 @@
+     "canonicalName": "Chrome Management",
+     "description": "The Chrome Management API is a suite of services that allows Chrome administrators to view, manage and gain insights on their Chrome OS and Chrome Browser devices.",
+     "discoveryVersion": "v1",
+-    "documentationLink": "http://developers.google.com/chrome/management/",
++    "documentationLink": "https://developers.google.com/chrome/management/",
+     "icons": {
+         "x16": "http://www.google.com/images/icons/product/search-16.gif",
+         "x32": "http://www.google.com/images/icons/product/search-32.gif"
+diff --git a/discovery/googleapis/chromepolicy__v1.json b/discovery/googleapis/chromepolicy__v1.json
+index 8a9583c22..48cd14409 100644
+--- a/discovery/googleapis/chromepolicy__v1.json
++++ b/discovery/googleapis/chromepolicy__v1.json
+@@ -17,7 +17,7 @@
+     "canonicalName": "Chrome Policy",
+     "description": "The Chrome Policy API is a suite of services that allows Chrome administrators to control the policies applied to their managed Chrome OS devices and Chrome browsers.",
+     "discoveryVersion": "v1",
+-    "documentationLink": "http://developers.google.com/chrome/policy",
++    "documentationLink": "https://developers.google.com/chrome/policy",
+     "icons": {
+         "x16": "http://www.google.com/images/icons/product/search-16.gif",
+         "x32": "http://www.google.com/images/icons/product/search-32.gif"
+diff --git a/discovery/googleapis/sts__v1.json b/discovery/googleapis/sts__v1.json
+index 4817ca793..dd48d71a9 100644
+--- a/discovery/googleapis/sts__v1.json
++++ b/discovery/googleapis/sts__v1.json
+@@ -5,7 +5,7 @@
+     "canonicalName": "Cloud Security Token",
+     "description": "The Security Token Service exchanges Google or third-party credentials for a short-lived access token to Google Cloud resources.",
+     "discoveryVersion": "v1",
+-    "documentationLink": "http://cloud.google.com/iam/docs/workload-identity-federation",
++    "documentationLink": "https://cloud.google.com/iam/docs/workload-identity-federation",
+     "icons": {
+         "x16": "http://www.google.com/images/icons/product/search-16.gif",
+         "x32": "http://www.google.com/images/icons/product/search-32.gif"
+diff --git a/discovery/googleapis/versionhistory__v1.json b/discovery/googleapis/versionhistory__v1.json
+index 9c8e53aa0..60fdc75ba 100644
+--- a/discovery/googleapis/versionhistory__v1.json
++++ b/discovery/googleapis/versionhistory__v1.json
+@@ -5,7 +5,7 @@
+     "canonicalName": "Version History",
+     "description": "Version History API - Prod",
+     "discoveryVersion": "v1",
+-    "documentationLink": "https://developers.chrome.com/versionhistory",
++    "documentationLink": "https://developer.chrome.com/docs/versionhistory/",
+     "icons": {
+         "x16": "http://www.google.com/images/icons/product/search-16.gif",
+         "x32": "http://www.google.com/images/icons/product/search-32.gif"

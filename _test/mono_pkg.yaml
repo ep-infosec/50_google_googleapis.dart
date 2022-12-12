@@ -1,0 +1,9 @@
+stages:
+- analyze_and_format:
+  - group:
+    - format
+    - analyze: --fatal-infos .
+    sdk: dev
+  - group:
+    - analyze
+    sdk: pubspec
